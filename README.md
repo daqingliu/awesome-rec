@@ -1,6 +1,6 @@
 # Awesome Referring Expression Comprehension
 
-> Inspired by [awesome-grounding](https://github.com/TheShadow29/awesome-grounding) and this [survey]().
+> Inspired by [awesome-grounding](https://github.com/TheShadow29/awesome-grounding) and this [survey](https://arxiv.org/pdf/2007.09554.pdf).
 
 A curated list of research papers in Referring Expression Comprehension (REC). Link to the code and website if available is also present.
 
