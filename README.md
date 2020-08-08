@@ -97,12 +97,12 @@ To add a new paper via pull request:
 1. Fork the repo, edit `README.md`.
 1. Put the new paper at the correct chronological position as the following format:
     ```
-    - Author(s). **Paper Title**. Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
+    - **Paper Title**. *Author(s)*. Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
     ```
 1. Send a pull request. Ideally, I will review the request within a week.
 
 ## Acknowledgement
 
-This repo is maintained by [Daqing LIU](https://http://home.ustc.edu.cn/~liudq/).
+This repo is maintained by [Daqing LIU](http://home.ustc.edu.cn/~liudq/).
 
 Other Awesome Vision-Language lists: [Awesome Vision-Languge Navigation](https://github.com/daqingliu/awesome-vln), [Awesome-Video-Captioning](https://github.com/tgc1997/Awesome-Video-Captioning).
