@@ -32,6 +32,8 @@ A curated list of research papers in Referring Expression Comprehension (REC). L
 
 ### arXiv
 
+
+- **(TransVG) TransVG: End-to-End Visual Grounding with Transformers**.  *Jiajun Deng, Zhengyuan Yang, Tianlang Chen, Wengang Zhou, Houqiang Li*. arXiv, 2021. [[Paper]](https://arxiv.org/pdf/2104.08541.pdf)
 - **(ECIFA) Give Me Something to Eat: Referring Expression Comprehension with Commonsense Knowledge**.  *Peng Wang, Dongyang Liu, Hui Li, and Qi Wu*. arXiv, 2020. [[Paper]](https://arxiv.org/pdf/2006.01629.pdf)
 - **(JVGN) Joint Visual Grounding with Language Scene Graphs**.  *Daqing Liu, Hanwang Zhang, Zheng-Jun Zha, Meng Wang, and Qianru Sun*. arXiv, 2019. [[Paper]](https://arxiv.org/pdf/1906.03561.pdf) *(I am an author of the paper)*
 - **A Real-time Global Inference Network for One-stage Referring Expression Comprehension**.  *Yiyi Zhou et al.* arXiv, 2019. [[Paper]](https://arxiv.org/pdf/1912.03478.pdf) [[Code]](https://github.com/luogen1996/Real-time-Global-Inference-Network)
